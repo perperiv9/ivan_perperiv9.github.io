@@ -1,3 +1,8 @@
+---
+title: Dinosaurios
+layout: home
+---
+
 # Dinosaurios
 
 Los **dinosaurios** son animales que dominaron los ecosistemas del *Mesozoico* durante unos 160 millones de años, alcanzando una gran diversidad y tamaños gigantescos. Una de sus principales características distinguibles fue que poseían las patas situadas por debajo del cuerpo, como los mamíferos, y no hacia los costados, como la mayor parte de los reptiles. Durante los últimos años se han acumulado pruebas científicas muy contundentes de que pequeños **dinosaurios** carnívoros dieron origen a las aves durante el periodo *Jurásico*. ¡Los **dinosaurios** están entre nosotros! Durante todas las épocas, el hombre ha estado interesado e intrigado por estos maravillosos seres. Los hombres nos hemos planteado innumerables cuestiones sobre los **dinosaurios**: Su manera de vida, su comportamiento, cómo se comunicaban entre ellos, e incluso, el por qué de su extinción. Como observamos, son muchas las preguntas a las que los investigadores intentan contestar desde los principios de la paleontología.
