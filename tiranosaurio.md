@@ -1,3 +1,8 @@
+---
+title: T-Rex
+layout: home
+---
+
 # Tiranosaurio Rex
 
 El **Tiranosaurio Rex** fue uno de los depredadores más grandes en la era de los dinosaurios. Medía hasta 12 metros de largo y pesaba alrededor de 9 toneladas. 
