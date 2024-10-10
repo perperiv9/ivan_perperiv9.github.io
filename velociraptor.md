@@ -10,4 +10,4 @@ layout: home
 Aunque más pequeño que otros *dromeosáuridos* como *Deinonychus* y* Achillobator*, el **velocirráptor** tenía muchos rasgos anatómicos similares a ellos. Fue un carnívoro bípedo, con una cola larga y rígida, con plumas características y unas garras grandes con forma de hoz en cada pata, que probablemente le facilitaba el matar a sus presas. A diferencia de otros *dromeosáuridos*, el **velocirráptor** poseía un cráneo bajo y alargado, y un hocico chato, dirigido hacia arriba. Poseía patas traseras de gran longitud, lo que expresa (al igual que el nombre) su aparente gran velocidad.
 
 ![Velociraptor](https://dinosaurland.es/wp-content/uploads/2024/02/21-Velociraptor.jpeg)
-[Volver a la página principal](./index.md)
+[Volver a la página principal](https://perperiv9.github.io/ivan_perperiv9.github.io/)
