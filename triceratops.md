@@ -14,4 +14,4 @@ La cabeza del **Triceratops** era su rasgo más imponente. Medía de 1,2 a 1,5 m
 
 ![Triceratops](https://static.nationalgeographic.es/files/styles/image_3200/public/2416.600x450.webp?w=1024&h=768&q=100)
 
-[Volver a la página principal](./index.md)
+[Volver a la página principal](https://perperiv9.github.io/ivan_perperiv9.github.io/)
