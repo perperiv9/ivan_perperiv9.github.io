@@ -24,7 +24,7 @@ El Velociraptor era un dinosaurio pequeño y ágil, conocido por su inteligencia
 2. Jurásico (hace 200 a 145 millones de años)
 3. Cretácico (hace 145 a 66 millones de años)
 
-![Dinosaurios]([https://example.com/dinosaur-image.jpg](https://www.dinosaur.org/wp-content/uploads/2024/08/illustration-featuring-a-variety-of-sauropodomorph-dinosaurs-in-a-lush-Jurassic-landscape-1024x574.png))
+![Dinosaurios](https://www.dinosaur.org/wp-content/uploads/2024/08/illustration-featuring-a-variety-of-sauropodomorph-dinosaurs-in-a-lush-Jurassic-landscape-1024x574.png)
 
 
 ----
