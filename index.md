@@ -1,6 +1,6 @@
 ---
 title: Dinosaurios
-layout: home
+layout: default
 ---
 
 # Dinosaurios
