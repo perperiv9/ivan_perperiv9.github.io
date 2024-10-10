@@ -1,4 +1,4 @@
-**Triceratops**
+#Triceratops
 
 Con sus cuernos duros como rocas, la placa de la cabeza en forma de escudo y un torso enorme, el Triceratops horridus con sus tres cuernos debió tener una presencia intimidatoria en el Cretácico Inferior. Sin embargo, este gigante fue un herbívoro que solo cazaba vegetación al oeste de Norteamérica.
 
