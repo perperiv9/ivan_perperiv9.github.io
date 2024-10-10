@@ -2,4 +2,12 @@
 title: British Museum
 layout: default
 ---
-[British Museum](https://www.britishmuseum.org/)
+<!DOCTYPE html>
+<html>
+<head>
+  <meta http-equiv="refresh" content="0; url="https://www.britishmuseum.org/">
+</head>
+<body>
+  Si no eres redirigido automáticamente, haz clic <a href="https://ejemplo.com">aquí</a>.
+</body>
+</html>
