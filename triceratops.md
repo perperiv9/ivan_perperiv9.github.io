@@ -8,6 +8,6 @@ Como los actuales rinocerontes, el Triceratops probablemente dedicaba la mayor p
 
 La cabeza delTriceratops era su rasgo más imponente. Medía de 1,2 a 1,5 metros y estaba dotada de unos impresionantes cuernos y una placa frontal. Utilizaba sus cuernos, uno corto sobre la boca y dos largos sobre sus ojos para embestir contra depredadores como el T. rex. Probablemente también eran utilizados en rituales de apareamiento.
 
-![Triceratops(https://static.nationalgeographic.es/files/styles/image_3200/public/2416.600x450.webp?w=1024&h=768&q=100)
+![Triceratops](https://static.nationalgeographic.es/files/styles/image_3200/public/2416.600x450.webp?w=1024&h=768&q=100)
 
 [Volver a la página principal](./index.md)
