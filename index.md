@@ -1,22 +1,12 @@
----
-title: Dinosaurios
-layout: home
----
-
 # Dinosaurios
 
-Los dinosaurios son un grupo diverso de reptiles prehistóricos que dominaron la Tierra durante más de 160 millones de años, desde el período Triásico hasta el final del período Cretácico.
+Los dinosaurios son un grupo diverso de reptiles prehistóricos que dominaron la Tierra durante millones de años.
 
-## Tipos de dinosaurios
+## Submenús
 
-### 1. **Tiranosaurio Rex**
-El Tiranosaurio Rex fue uno de los carnívoros más grandes y poderosos de la historia.
-
-### 2. **Triceratops**
-El Triceratops era un herbívoro con tres cuernos que usaba para defenderse de los depredadores.
-
-### 3. **Velociraptor**
-El Velociraptor era un dinosaurio pequeño y ágil, conocido por su inteligencia y velocidad.
+- [Tiranosaurio Rex](./tiranosaurio.md)
+- [Triceratops](./triceratops.md)
+- [Velociraptor](./velociraptor.md)
 
 ## Periodos
 
