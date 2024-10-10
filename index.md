@@ -9,9 +9,9 @@ Los **dinosaurios** son animales que dominaron los ecosistemas del *Mesozoico* d
 
 ## Ejemplos de especies famosas:
 
-- [Tiranosaurio Rex](./tiranosaurio.md)
-- [Triceratops](./triceratops.md)
-- [Velociraptor](./velociraptor.md)
+- [Tiranosaurio Rex](https://perperiv9.github.io/ivan_perperiv9.github.io/tiranosaurio.html)
+- [Triceratops](https://perperiv9.github.io/ivan_perperiv9.github.io/triceratops.html)
+- [Velociraptor](https://perperiv9.github.io/ivan_perperiv9.github.io/velociraptor.html)
 
 ## Periodos relevantes:
 
