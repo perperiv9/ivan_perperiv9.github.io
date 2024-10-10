@@ -15,4 +15,4 @@ En 1905, el paleontólogo estadounidense *Henry Fairfield Osborn* lograría reun
 
 ![Tiranosaurio Rex](https://www.tododinosaurios.com/blog/wp-content/uploads/2023/03/NicePng_dinosaur-png_269235.png)
 
-[Volver a la página principal](./index.md)
+[Volver a la página principal](https://perperiv9.github.io/ivan_perperiv9.github.io/)
