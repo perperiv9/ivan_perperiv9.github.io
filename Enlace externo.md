@@ -8,6 +8,6 @@ layout: default
   <meta http-equiv="refresh" content="0; url="https://www.britishmuseum.org/">
 </head>
 <body>
-  Si no eres redirigido automáticamente, haz clic <a href="https://ejemplo.com">aquí</a>.
+  Si no eres redirigido automáticamente, haz clic <a href="https://www.britishmuseum.org/">aquí</a>.
 </body>
 </html>
