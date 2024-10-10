@@ -2,7 +2,6 @@
 title: Dinosaurios
 layout: default
 ---
-<img src="https://github.com/perperiv9/ivan_perperiv9.github.io/blob/main/pixlr-image-generator-afd0811b-c70c-4190-af73-f17a0df95edb.png" alt="Banner" style="width:100%; height:auto;">
 
 # Dinosaurios
 
