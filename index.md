@@ -2,6 +2,7 @@
 title: Dinosaurios
 layout: default
 ---
+<img src="/assets/images/mi-banner.jpg" alt="Banner" style="width:100%; height:auto;">
 
 # Dinosaurios
 
