@@ -1,6 +1,6 @@
 # Triceratops
 
-Con sus cuernos duros como rocas, la placa de la cabeza en forma de escudo y un torso enorme, el **_Triceratops_** horridus con sus tres cuernos debió tener una presencia intimidatoria en el Cretácico Inferior. Sin embargo, este gigante fue un **herbívoro** que solo cazaba vegetación al oeste de *Norteamérica*.
+Con sus cuernos duros como rocas, la placa de la cabeza en forma de escudo y un torso enorme, el **_Triceratops horridus_** con sus tres cuernos debió tener una presencia intimidatoria en el Cretácico Inferior. Sin embargo, este gigante fue un **herbívoro** que solo cazaba vegetación al oeste de *Norteamérica*.
 
 Las pruebas de los fósiles muestran que el **Triceratops** tenía unos 9 metros de largo y  3 metros de altura y pesaba de 4 a 6 toneladas. Sus robustos miembros soportaban al Triceratops pero no era probable que el dinosaurio pudiera moverse muy rápidamente.
 
