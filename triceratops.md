@@ -1,5 +1,5 @@
 ---
-title: Triceratops
+title: Dinosaurios
 layout: home
 ---
 # Triceratops
