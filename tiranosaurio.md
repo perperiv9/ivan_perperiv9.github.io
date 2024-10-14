@@ -1,5 +1,6 @@
 ---
-title: Dinosaurios
+title: Tiranosaurio
+parent: Dinosaurios
 layout: home
 ---
 
