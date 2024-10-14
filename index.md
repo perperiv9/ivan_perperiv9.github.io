@@ -15,7 +15,7 @@ Los **dinosaurios** son animales que dominaron los ecosistemas del *Mesozoico* d
 
 ## Periodos relevantes:
 
-1. # **Triásico** (hace 250 a 200 millones de años):
+1. ### **Triásico** (hace 250 a 200 millones de años):
 El **Triásico** ocupa el primer lugar precediendo al **Jurásico**. Comenzó hace 250 millones de años y acabó hace 200 millones de años. Debe su nombre a las tres capas de rocas (del griego *"τριάς"*, que se lee *"triás"* y significa *"tres"*) que encontró el geólogo alemán **_Friedrich von Alberti_** en sus estudios en *Alemania* y *Europa* noroccidental en 1834.
 Como ocurre con la mayoría de los períodos geológicos, las fechas exactas de inicio y fin son imprecisas en unos pocos centenares de miles de años. En el caso de este período, tanto el inicio como el final están marcados por importantes eventos de extinción: la extinción masiva del **Pérmico-Triásico** y la del **Triásico-Jurásico**.
 Los primeros *mamíferos*, los cuales evolucionaron de los *reptiles mamiferoides*, hicieron su aparición en este período.                                                                                                                                                                                     
