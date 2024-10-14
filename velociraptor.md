@@ -1,5 +1,6 @@
 ---
-title: Dinosaurios
+title: Velociraptor
+parent: Dinosaurios
 layout: home
 ---
 
