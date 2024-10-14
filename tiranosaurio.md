@@ -1,5 +1,5 @@
 ---
-title: T-Rex
+title: Dinosaurios
 layout: home
 ---
 
