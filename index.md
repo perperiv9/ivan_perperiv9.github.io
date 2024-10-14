@@ -34,7 +34,7 @@ El **Cretácico** ocupa el tercer y último lugar siguiendo al **Jurásico**. Co
 
 
 
-![Dinosaurios](https://www.dinosaur.org/wp-content/uploads/2024/08/illustration-featuring-a-variety-of-sauropodomorph-dinosaurs-in-a-lush-Jurassic-landscape-1024x574.png | width= 300 heigth= 200)
+![Dinosaurios](https://www.dinosaur.org/wp-content/uploads/2024/08/illustration-featuring-a-variety-of-sauropodomorph-dinosaurs-in-a-lush-Jurassic-landscape-1024x574.png | width= 300)
 
 
 ----
