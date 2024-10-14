@@ -1,5 +1,5 @@
 ---
-title: Velociraptor
+title: Dinosaurios
 layout: home
 ---
 
