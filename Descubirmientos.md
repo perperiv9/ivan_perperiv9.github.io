@@ -15,3 +15,7 @@ En los 200 años transcurridos desde aquella reunión, hemos aprendido más sobr
 El descubrimiento de nuevos fósiles y el desarrollo de nuevas técnicas para estudiarlos han permitido a los científicos ahondar en la fascinante vida de estos antiguos reptiles como nunca antes. Algunos de estos descubrimientos han sido tan importantes que han cambiado drásticamente la forma en que vemos a los dinosaurios. 
 
 ![mandibula](https://www.nhm.ac.uk/content/dam/nhmwww/discover/biggest-dinosaur-discoveries/megalosaurus-fossil-dinosaur%20discoveries-two-column.jpg.thumb.768.768.jpg)
+
+*Esta mandíbula de Megalosaurus conservada en la Universidad de Oxford ayudó a William Buckland a describir  el primer dinosaurio en 1824. Imagen de Josh Davis.*
+
+
