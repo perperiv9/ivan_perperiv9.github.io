@@ -1,5 +1,5 @@
 ---
-title: Dinosaurios
+title: Dinosaurios 
 nav_order: 1
 layout: home
 ---
